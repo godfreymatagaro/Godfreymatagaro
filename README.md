@@ -77,10 +77,10 @@ I’m dedicated to building creative projects and exploring emerging technologie
 ### 🌐 Connect with Me
 <div align="center">
   
-  <a href="https://www.instagram.com/godyracks/" target="_blank">
+  <a href="https://www.instagram.com/godfreymatagaro/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  
+    <a href="https://www.x.com/godfreymatagaro/" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
   <a href="mailto:godfreymatagaro@gmail.com" target="_blank">
